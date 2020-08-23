@@ -17,13 +17,13 @@
 6. Sporting KC
 
 ## Images
-URL for Chiefs logo picture: https://www.pinterest.com/pin/100064422948695586/
-
 ![Chiefs](Chiefs.jpg)
 
-URL for Tigers logo picture: https://www.pinterest.com/pin/412360909607986947/
+URL for Chiefs logo picture: https://www.pinterest.com/pin/100064422948695586/
 
 ![TigersLogo](TigersLogo.jpg)
+
+URL for Tigers logo picture: https://www.pinterest.com/pin/412360909607986947/
 
 ## Links
 URL for my LinkedIn account, lets connect! https://www.linkedin.com/in/jack-beaver-427199193/ <br />
