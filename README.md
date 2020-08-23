@@ -23,4 +23,4 @@ URL for Chiefs logo picture: https://www.pinterest.com/pin/100064422948695586/
 
 URL for Tigers logo picture: https://www.pinterest.com/pin/412360909607986947/
 
-![Tigers](Tigers.jpg)
+![TigersLogo](TigersLogo.jpg)
