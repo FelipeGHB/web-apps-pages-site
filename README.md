@@ -17,5 +17,6 @@
 6. Sporting KC
 
 ## Images
-https://www.pinterest.com/pin/100064422948695586/
+URL for Chiefs logo picture: https://www.pinterest.com/pin/100064422948695586/
+
 ![Chiefs](Chiefs.jpg)
