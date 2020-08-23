@@ -21,6 +21,6 @@ URL for Chiefs logo picture: https://www.pinterest.com/pin/100064422948695586/
 
 ![Chiefs](Chiefs.jpg)
 
-URL for Tigers logo picture: https://www.cleanpng.com/png-university-of-missouri-missouri-tigers-football-lo-1543266/
+URL for Tigers logo picture: https://www.pinterest.com/pin/412360909607986947/
 
 ![Tigers](Tigers.jpg)
