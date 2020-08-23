@@ -24,3 +24,8 @@ URL for Chiefs logo picture: https://www.pinterest.com/pin/100064422948695586/
 URL for Tigers logo picture: https://www.pinterest.com/pin/412360909607986947/
 
 ![TigersLogo](TigersLogo.jpg)
+
+## Links
+URL for my LinkedIn account, lets connect! https://www.linkedin.com/in/jack-beaver-427199193/
+URL for my Twitter account, give me follow! https://twitter.com/jackwbeaver
+URL for my Facebook account, add me as a friend! https://www.facebook.com/profile.php?id=100014596543322
