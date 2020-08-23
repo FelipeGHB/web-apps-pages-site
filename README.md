@@ -14,6 +14,8 @@
 3. Kansas City Royals
 4. Missouri Tigers (Basketball)
 5. Denver Nuggets
-6. Sports KC
+6. Sporting KC
 
 ## Images
+https://www.pinterest.com/pin/100064422948695586/
+![Chiefs](Chiefs.jpg)
